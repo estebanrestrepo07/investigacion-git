@@ -5,11 +5,11 @@
 En esta práctica se probará los conocimientos básicos de git obtenidos en la presentación dada en la clase de Analisis y Diseño de sistemas II
 
 
-## 3. Programa de la practica
+## 2. Programa de la practica
 
 El trabajo estará distribuido en **5 secciones** 
 
-## 4. Agenda
+## 3. Agenda
 
 | sesion | Tema                                                                                  | tarea             |
 | :---:  | :-----------------------------------------------------------------------------------: | :---------------: |
@@ -20,7 +20,7 @@ El trabajo estará distribuido en **5 secciones**
 | **5**  |  Final - merge - pull - stash                                                         | Ejercicio         |
 
 
-## 5. Configuracion de ambiente
+## 4. Configuracion de ambiente
 
 1. Registrarse en [GitHub](http://github.com/) para crear una cuenta si no tiene una
 2. Instalar [Git](https://git-scm.com/)
